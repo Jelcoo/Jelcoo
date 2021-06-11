@@ -1,7 +1,7 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=brightgreen)
 
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=windows&color=yellow)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual_studio_code&color=yellow)
 
 ## 📱 Social
 
