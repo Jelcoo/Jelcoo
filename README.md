@@ -3,8 +3,8 @@
 
 ## 📱 Social
 
-- <img align="left" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/twitter.svg" /> https://twitter.com/jelcootje
-- <img align="left" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/discord.svg" /> Jelco#9633
+- <img align="left" width="64" height="64" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/twitter.svg" /> https://twitter.com/jelcootje
+- <img align="left" width="64" height="64" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/discord.svg" /> Jelco#9633
 
 
 ## 📈 GitHub Stats
