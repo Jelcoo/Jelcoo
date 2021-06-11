@@ -1,7 +1,16 @@
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=brightgreen)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=yellowgreen)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&color=yellowgreen)
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual_studio_code&color=yellow)
+
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=orange)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=orange)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=orange)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=orange)
+![](https://img.shields.io/badge/Code-GO-informational?style=flat&logo=go&color=orange)
+
+Libraries
 
 ## 📱 Social
 
