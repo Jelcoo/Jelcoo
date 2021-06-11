@@ -1,10 +1,12 @@
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=brightgreen)
 
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=windows&color=yellow)
 
 ## 📱 Social
 
-- <img align="left" width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/twitter.svg" /> https://twitter.com/jelcootje
-- <img align="left" width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/discord.svg" /> Jelco#9633
+- <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/twitter.svg" /> https://twitter.com/jelcootje
+- <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/discord.svg" /> Jelco#9633
 
 
 ## 📈 GitHub Stats
