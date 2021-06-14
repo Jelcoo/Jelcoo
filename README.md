@@ -3,7 +3,8 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
 
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual_studio_code)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode)
+![](https://img.shields.io/badge/Editor-Nodepad++-informational?style=flat&logo=notepadplusplus)
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5)
