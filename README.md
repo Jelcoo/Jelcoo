@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/Code-GO-informational?style=flat&logo=go)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=gradle)
 
 ![](https://img.shields.io/badge/Library-Laravel-informational?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react)
