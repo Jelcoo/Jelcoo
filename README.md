@@ -18,6 +18,10 @@
 ![](https://img.shields.io/badge/Library-Laravel-informational?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react)
 
+## 🕐 WakaTime
+<img src="https://wakatime.com/badge/user/95f0f831-8644-44f5-bf60-61f4e6da69a8.svg" />
+<img src="https://wakatime.com/share/@95f0f831-8644-44f5-bf60-61f4e6da69a8/72e611cb-ceba-4f77-90a2-f2814bedcbfd.svg" />
+
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Jelcoo/Jelcoo">
@@ -26,7 +30,6 @@
 <a href="https://github.com/Jelcoo/Jelcoo">
   <img src="https://github-readme-stats.vercel.app/api?username=Jelcoo&show_icons=true&theme=dark" />
 </a>
-<img src="https://wakatime.com/badge/user/95f0f831-8644-44f5-bf60-61f4e6da69a8.svg" />
 
 ## 📱 Social
 
