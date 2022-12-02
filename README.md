@@ -26,6 +26,7 @@
 <a href="https://github.com/Jelcoo/Jelcoo">
   <img src="https://github-readme-stats.vercel.app/api?username=Jelcoo&show_icons=true&theme=dark" />
 </a>
+<img src="https://wakatime.com/badge/user/95f0f831-8644-44f5-bf60-61f4e6da69a8.svg" />
 
 ## 📱 Social
 
