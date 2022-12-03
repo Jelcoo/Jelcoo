@@ -20,7 +20,7 @@
 
 ## 🕐 WakaTime
 <img src="https://wakatime.com/badge/user/95f0f831-8644-44f5-bf60-61f4e6da69a8.svg" />
-<img src="https://wakatime.com/share/@95f0f831-8644-44f5-bf60-61f4e6da69a8/72e611cb-ceba-4f77-90a2-f2814bedcbfd.svg" />
+<img width="512" height="512" src="https://wakatime.com/share/@95f0f831-8644-44f5-bf60-61f4e6da69a8/72e611cb-ceba-4f77-90a2-f2814bedcbfd.svg" />
 
 ## 📈 GitHub Stats
 
