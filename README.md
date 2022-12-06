@@ -18,10 +18,6 @@
 ![](https://img.shields.io/badge/Library-Laravel-informational?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react)
 
-## 🕐 WakaTime
-<img src="https://wakatime.com/badge/user/95f0f831-8644-44f5-bf60-61f4e6da69a8.svg" />
-<img width="512" height="512" src="https://wakatime.com/share/@95f0f831-8644-44f5-bf60-61f4e6da69a8/72e611cb-ceba-4f77-90a2-f2814bedcbfd.svg" />
-
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Jelcoo/Jelcoo">
@@ -34,4 +30,5 @@
 ## 📱 Social
 
 - <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/twitter.svg" /> https://twitter.com/jelcovth
+- <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/linkedin.svg" /> https://www.linkedin.com/in/jelco-van-t-hull-b35076256
 - <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/discord.svg" /> Jelco#9633
