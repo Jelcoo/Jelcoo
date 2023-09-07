@@ -29,6 +29,5 @@
 
 ## 📱 Social
 
-- <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/twitter.svg" /> https://twitter.com/jelcovth
 - <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/linkedin.svg" /> https://www.linkedin.com/in/jelco-van-t-hull-b35076256
-- <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/discord.svg" /> Jelco#9633
+- <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/discord.svg" /> `jelco`
