@@ -29,8 +29,3 @@
 <a href="https://github.com/Jelcoo/Jelcoo">
   <img src="https://github-readme-stats.vercel.app/api?username=Jelcoo&show_icons=true&theme=dark" />
 </a>
-
-## 📱 Social
-
-- <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/linkedin.svg" /> https://www.linkedin.com/in/jelco-van-t-hull-b35076256
-- <img width="16" height="16" src="https://raw.githubusercontent.com/Jelcoo/Jelcoo/main/discord.svg" /> `jelco`
