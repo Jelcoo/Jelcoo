@@ -28,6 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelcoo&theme=dark&layout=compact" />
 </a>
 <br/>
-<a href="https://wakatime.com/@0a76968b-b9d6-40df-8b63-25f7809fdf53">
+<a href="https://wakatime.com/@jelcoo">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jelcoo&theme=dark&layout=compact" />
 </a>
