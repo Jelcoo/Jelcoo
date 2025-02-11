@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Library-Laravel-informational?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react)
 ![](https://img.shields.io/badge/Library-Svelte-informational?style=flat&logo=svelte)
+![](https://img.shields.io/badge/Library-Vue-informational?style=flat&logo=vue.js)
 
 ## 📈 GitHub Stats
 
