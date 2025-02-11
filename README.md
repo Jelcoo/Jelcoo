@@ -22,8 +22,12 @@
 ![](https://img.shields.io/badge/Library-Svelte-informational?style=flat&logo=svelte)
 ![](https://img.shields.io/badge/Library-Vue-informational?style=flat&logo=vue.js)
 
-## 📈 GitHub Stats
+## 📈 Statistics
 
 <a href="https://github.com/Jelcoo/Jelcoo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelcoo&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jelcoo&theme=dark&layout=compact" />
+</a>
+<br/>
+<a href="https://wakatime.com/@0a76968b-b9d6-40df-8b63-25f7809fdf53">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jelcoo&theme=dark&layout=compact" />
 </a>
