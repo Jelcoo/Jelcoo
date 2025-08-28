@@ -1,5 +1,6 @@
 ## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93cyAxMTwvdGl0bGU+PHBhdGggZmlsbD0iIzA4N2RkNSIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4K)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu)
 
